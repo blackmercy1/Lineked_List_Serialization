@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/black_mercy/.dotnet/store/|arch|/|tfm|",
+      "/Users/black_mercy/.nuget/packages"
+    ]
+  }
+}

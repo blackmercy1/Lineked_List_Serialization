@@ -1,0 +1,15 @@
+/Users/black_mercy/RiderProjects/SaberInteractiveTest/SaberInteractiveTest/bin/Debug/net5.0/SaberInteractiveTest.deps.json
+/Users/black_mercy/RiderProjects/SaberInteractiveTest/SaberInteractiveTest/bin/Debug/net5.0/SaberInteractiveTest.runtimeconfig.json
+/Users/black_mercy/RiderProjects/SaberInteractiveTest/SaberInteractiveTest/bin/Debug/net5.0/SaberInteractiveTest.runtimeconfig.dev.json
+/Users/black_mercy/RiderProjects/SaberInteractiveTest/SaberInteractiveTest/bin/Debug/net5.0/SaberInteractiveTest.dll
+/Users/black_mercy/RiderProjects/SaberInteractiveTest/SaberInteractiveTest/bin/Debug/net5.0/ref/SaberInteractiveTest.dll
+/Users/black_mercy/RiderProjects/SaberInteractiveTest/SaberInteractiveTest/bin/Debug/net5.0/SaberInteractiveTest.pdb
+/Users/black_mercy/RiderProjects/SaberInteractiveTest/SaberInteractiveTest/obj/Debug/net5.0/SaberInteractiveTest.csproj.AssemblyReference.cache
+/Users/black_mercy/RiderProjects/SaberInteractiveTest/SaberInteractiveTest/obj/Debug/net5.0/SaberInteractiveTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/black_mercy/RiderProjects/SaberInteractiveTest/SaberInteractiveTest/obj/Debug/net5.0/SaberInteractiveTest.AssemblyInfoInputs.cache
+/Users/black_mercy/RiderProjects/SaberInteractiveTest/SaberInteractiveTest/obj/Debug/net5.0/SaberInteractiveTest.AssemblyInfo.cs
+/Users/black_mercy/RiderProjects/SaberInteractiveTest/SaberInteractiveTest/obj/Debug/net5.0/SaberInteractiveTest.csproj.CoreCompileInputs.cache
+/Users/black_mercy/RiderProjects/SaberInteractiveTest/SaberInteractiveTest/obj/Debug/net5.0/SaberInteractiveTest.dll
+/Users/black_mercy/RiderProjects/SaberInteractiveTest/SaberInteractiveTest/obj/Debug/net5.0/ref/SaberInteractiveTest.dll
+/Users/black_mercy/RiderProjects/SaberInteractiveTest/SaberInteractiveTest/obj/Debug/net5.0/SaberInteractiveTest.pdb
+/Users/black_mercy/RiderProjects/SaberInteractiveTest/SaberInteractiveTest/obj/Debug/net5.0/SaberInteractiveTest.genruntimeconfig.cache
