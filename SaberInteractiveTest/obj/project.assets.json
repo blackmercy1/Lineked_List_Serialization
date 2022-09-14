@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/Users/black_mercy/.nuget/packages/": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/black_mercy/RiderProjects/SaberInteractiveTest/SaberInteractiveTest/SaberInteractiveTest.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Downloads\\Telegram Desktop\\SaberInteractiveTest\\SaberInteractiveTest\\SaberInteractiveTest.csproj",
       "projectName": "SaberInteractiveTest",
-      "projectPath": "/Users/black_mercy/RiderProjects/SaberInteractiveTest/SaberInteractiveTest/SaberInteractiveTest.csproj",
-      "packagesPath": "/Users/black_mercy/.nuget/packages/",
-      "outputPath": "/Users/black_mercy/RiderProjects/SaberInteractiveTest/SaberInteractiveTest/obj/",
+      "projectPath": "C:\\Users\\user\\Downloads\\Telegram Desktop\\SaberInteractiveTest\\SaberInteractiveTest\\SaberInteractiveTest.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Downloads\\Telegram Desktop\\SaberInteractiveTest\\SaberInteractiveTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/black_mercy/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -49,16 +49,35 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.17, 5.0.17]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\user\\.dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
