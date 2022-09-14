@@ -13,3 +13,19 @@
 /Users/black_mercy/RiderProjects/SaberInteractiveTest/SaberInteractiveTest/obj/Debug/net5.0/ref/SaberInteractiveTest.dll
 /Users/black_mercy/RiderProjects/SaberInteractiveTest/SaberInteractiveTest/obj/Debug/net5.0/SaberInteractiveTest.pdb
 /Users/black_mercy/RiderProjects/SaberInteractiveTest/SaberInteractiveTest/obj/Debug/net5.0/SaberInteractiveTest.genruntimeconfig.cache
+C:\Users\user\Downloads\Telegram Desktop\SaberInteractiveTest\SaberInteractiveTest\bin\Debug\net5.0\SaberInteractiveTest.exe
+C:\Users\user\Downloads\Telegram Desktop\SaberInteractiveTest\SaberInteractiveTest\bin\Debug\net5.0\SaberInteractiveTest.deps.json
+C:\Users\user\Downloads\Telegram Desktop\SaberInteractiveTest\SaberInteractiveTest\bin\Debug\net5.0\SaberInteractiveTest.runtimeconfig.json
+C:\Users\user\Downloads\Telegram Desktop\SaberInteractiveTest\SaberInteractiveTest\bin\Debug\net5.0\SaberInteractiveTest.runtimeconfig.dev.json
+C:\Users\user\Downloads\Telegram Desktop\SaberInteractiveTest\SaberInteractiveTest\bin\Debug\net5.0\SaberInteractiveTest.dll
+C:\Users\user\Downloads\Telegram Desktop\SaberInteractiveTest\SaberInteractiveTest\bin\Debug\net5.0\ref\SaberInteractiveTest.dll
+C:\Users\user\Downloads\Telegram Desktop\SaberInteractiveTest\SaberInteractiveTest\bin\Debug\net5.0\SaberInteractiveTest.pdb
+C:\Users\user\Downloads\Telegram Desktop\SaberInteractiveTest\SaberInteractiveTest\obj\Debug\net5.0\SaberInteractiveTest.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Telegram Desktop\SaberInteractiveTest\SaberInteractiveTest\obj\Debug\net5.0\SaberInteractiveTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\Telegram Desktop\SaberInteractiveTest\SaberInteractiveTest\obj\Debug\net5.0\SaberInteractiveTest.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\Telegram Desktop\SaberInteractiveTest\SaberInteractiveTest\obj\Debug\net5.0\SaberInteractiveTest.AssemblyInfo.cs
+C:\Users\user\Downloads\Telegram Desktop\SaberInteractiveTest\SaberInteractiveTest\obj\Debug\net5.0\SaberInteractiveTest.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Telegram Desktop\SaberInteractiveTest\SaberInteractiveTest\obj\Debug\net5.0\SaberInteractiveTest.dll
+C:\Users\user\Downloads\Telegram Desktop\SaberInteractiveTest\SaberInteractiveTest\obj\Debug\net5.0\ref\SaberInteractiveTest.dll
+C:\Users\user\Downloads\Telegram Desktop\SaberInteractiveTest\SaberInteractiveTest\obj\Debug\net5.0\SaberInteractiveTest.pdb
+C:\Users\user\Downloads\Telegram Desktop\SaberInteractiveTest\SaberInteractiveTest\obj\Debug\net5.0\SaberInteractiveTest.genruntimeconfig.cache
